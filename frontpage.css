@@ -1,0 +1,10 @@
+.logo{
+	width: 12%;
+	height: 12%;
+}
+#left{
+	border-left: 1px solid gray;
+}
+.navbar-brand{
+	font-size: 50px;
+}
