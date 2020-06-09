@@ -1,10 +1,38 @@
 .logo{
-	width: 12%;
-	height: 12%;
+	width: 20%;
+	height: 20%;
 }
 #left{
 	border-left: 1px solid gray;
 }
 .navbar-brand{
-	font-size: 50px;
+	font-size: 2rem ! important;
+	text-shadow: 2px 2px 0px white;
+
+}
+#image{
+	height:600px;
+	margin-top: 80px;
+	 width:100vw;
+	background: url(https://images.shiksha.com/mediadata/images/1548409349phpTBS3kL.jpeg) no-repeat center center/cover;
+}
+
+.widget li{
+	width: 40%;
+
+}
+.styled-icons{
+	width: 40%;
+	margin-left: 120px;
+}
+
+.list-inline{
+margin-left: 140px;
+}
+.scrollToTop{
+	font-weight: bold;
+}
+.Copyright{
+	margin-left: 520px;
+
 }
